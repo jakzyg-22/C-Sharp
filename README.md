@@ -8,7 +8,6 @@ To repozytorium zawiera moje projekty oraz zadania związane z nauką języka C#
 ### `C#-Lrn-Proj`
 Folder zawiera moje **własne projekty**, tworzone z własnej inicjatywy. Służą mi do nauki, testowania różnych koncepcji oraz rozwijania umiejętności programistycznych. Przykłady to:
 - kalkulatory
-- gry konsolowe
 - aplikacje użytkowe
 
 ### `C#-LrnStud`
