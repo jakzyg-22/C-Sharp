@@ -1,0 +1,14 @@
+/Users/mac/RiderProjects/LabyGrzesiu/Macierze/bin/Debug/net9.0/Macierze
+/Users/mac/RiderProjects/LabyGrzesiu/Macierze/bin/Debug/net9.0/Macierze.deps.json
+/Users/mac/RiderProjects/LabyGrzesiu/Macierze/bin/Debug/net9.0/Macierze.runtimeconfig.json
+/Users/mac/RiderProjects/LabyGrzesiu/Macierze/bin/Debug/net9.0/Macierze.dll
+/Users/mac/RiderProjects/LabyGrzesiu/Macierze/bin/Debug/net9.0/Macierze.pdb
+/Users/mac/RiderProjects/LabyGrzesiu/Macierze/obj/Debug/net9.0/Macierze.GeneratedMSBuildEditorConfig.editorconfig
+/Users/mac/RiderProjects/LabyGrzesiu/Macierze/obj/Debug/net9.0/Macierze.AssemblyInfoInputs.cache
+/Users/mac/RiderProjects/LabyGrzesiu/Macierze/obj/Debug/net9.0/Macierze.AssemblyInfo.cs
+/Users/mac/RiderProjects/LabyGrzesiu/Macierze/obj/Debug/net9.0/Macierze.csproj.CoreCompileInputs.cache
+/Users/mac/RiderProjects/LabyGrzesiu/Macierze/obj/Debug/net9.0/Macierze.dll
+/Users/mac/RiderProjects/LabyGrzesiu/Macierze/obj/Debug/net9.0/refint/Macierze.dll
+/Users/mac/RiderProjects/LabyGrzesiu/Macierze/obj/Debug/net9.0/Macierze.pdb
+/Users/mac/RiderProjects/LabyGrzesiu/Macierze/obj/Debug/net9.0/Macierze.genruntimeconfig.cache
+/Users/mac/RiderProjects/LabyGrzesiu/Macierze/obj/Debug/net9.0/ref/Macierze.dll

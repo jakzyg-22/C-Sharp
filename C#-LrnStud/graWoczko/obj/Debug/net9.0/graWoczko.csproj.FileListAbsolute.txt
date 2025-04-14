@@ -1,0 +1,14 @@
+/Users/mac/RiderProjects/ConsoleApp1/graWoczko/bin/Debug/net9.0/graWoczko
+/Users/mac/RiderProjects/ConsoleApp1/graWoczko/bin/Debug/net9.0/graWoczko.deps.json
+/Users/mac/RiderProjects/ConsoleApp1/graWoczko/bin/Debug/net9.0/graWoczko.runtimeconfig.json
+/Users/mac/RiderProjects/ConsoleApp1/graWoczko/bin/Debug/net9.0/graWoczko.dll
+/Users/mac/RiderProjects/ConsoleApp1/graWoczko/bin/Debug/net9.0/graWoczko.pdb
+/Users/mac/RiderProjects/ConsoleApp1/graWoczko/obj/Debug/net9.0/graWoczko.GeneratedMSBuildEditorConfig.editorconfig
+/Users/mac/RiderProjects/ConsoleApp1/graWoczko/obj/Debug/net9.0/graWoczko.AssemblyInfoInputs.cache
+/Users/mac/RiderProjects/ConsoleApp1/graWoczko/obj/Debug/net9.0/graWoczko.AssemblyInfo.cs
+/Users/mac/RiderProjects/ConsoleApp1/graWoczko/obj/Debug/net9.0/graWoczko.csproj.CoreCompileInputs.cache
+/Users/mac/RiderProjects/ConsoleApp1/graWoczko/obj/Debug/net9.0/graWoczko.dll
+/Users/mac/RiderProjects/ConsoleApp1/graWoczko/obj/Debug/net9.0/refint/graWoczko.dll
+/Users/mac/RiderProjects/ConsoleApp1/graWoczko/obj/Debug/net9.0/graWoczko.pdb
+/Users/mac/RiderProjects/ConsoleApp1/graWoczko/obj/Debug/net9.0/graWoczko.genruntimeconfig.cache
+/Users/mac/RiderProjects/ConsoleApp1/graWoczko/obj/Debug/net9.0/ref/graWoczko.dll
