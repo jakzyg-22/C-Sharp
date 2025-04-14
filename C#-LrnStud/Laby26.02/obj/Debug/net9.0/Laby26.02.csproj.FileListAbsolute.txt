@@ -1,0 +1,14 @@
+/Users/mac/RiderProjects/LabyGrzesiu/Laby26.02/bin/Debug/net9.0/Laby26.02
+/Users/mac/RiderProjects/LabyGrzesiu/Laby26.02/bin/Debug/net9.0/Laby26.02.deps.json
+/Users/mac/RiderProjects/LabyGrzesiu/Laby26.02/bin/Debug/net9.0/Laby26.02.runtimeconfig.json
+/Users/mac/RiderProjects/LabyGrzesiu/Laby26.02/bin/Debug/net9.0/Laby26.02.dll
+/Users/mac/RiderProjects/LabyGrzesiu/Laby26.02/bin/Debug/net9.0/Laby26.02.pdb
+/Users/mac/RiderProjects/LabyGrzesiu/Laby26.02/obj/Debug/net9.0/Laby26.02.GeneratedMSBuildEditorConfig.editorconfig
+/Users/mac/RiderProjects/LabyGrzesiu/Laby26.02/obj/Debug/net9.0/Laby26.02.AssemblyInfoInputs.cache
+/Users/mac/RiderProjects/LabyGrzesiu/Laby26.02/obj/Debug/net9.0/Laby26.02.AssemblyInfo.cs
+/Users/mac/RiderProjects/LabyGrzesiu/Laby26.02/obj/Debug/net9.0/Laby26.02.csproj.CoreCompileInputs.cache
+/Users/mac/RiderProjects/LabyGrzesiu/Laby26.02/obj/Debug/net9.0/Laby26.02.dll
+/Users/mac/RiderProjects/LabyGrzesiu/Laby26.02/obj/Debug/net9.0/refint/Laby26.02.dll
+/Users/mac/RiderProjects/LabyGrzesiu/Laby26.02/obj/Debug/net9.0/Laby26.02.pdb
+/Users/mac/RiderProjects/LabyGrzesiu/Laby26.02/obj/Debug/net9.0/Laby26.02.genruntimeconfig.cache
+/Users/mac/RiderProjects/LabyGrzesiu/Laby26.02/obj/Debug/net9.0/ref/Laby26.02.dll
