@@ -1,0 +1,14 @@
+/Users/mac/RiderProjects/chatgpt/chatgpt/bin/Debug/net9.0/chatgpt
+/Users/mac/RiderProjects/chatgpt/chatgpt/bin/Debug/net9.0/chatgpt.deps.json
+/Users/mac/RiderProjects/chatgpt/chatgpt/bin/Debug/net9.0/chatgpt.runtimeconfig.json
+/Users/mac/RiderProjects/chatgpt/chatgpt/bin/Debug/net9.0/chatgpt.dll
+/Users/mac/RiderProjects/chatgpt/chatgpt/bin/Debug/net9.0/chatgpt.pdb
+/Users/mac/RiderProjects/chatgpt/chatgpt/obj/Debug/net9.0/chatgpt.GeneratedMSBuildEditorConfig.editorconfig
+/Users/mac/RiderProjects/chatgpt/chatgpt/obj/Debug/net9.0/chatgpt.AssemblyInfoInputs.cache
+/Users/mac/RiderProjects/chatgpt/chatgpt/obj/Debug/net9.0/chatgpt.AssemblyInfo.cs
+/Users/mac/RiderProjects/chatgpt/chatgpt/obj/Debug/net9.0/chatgpt.csproj.CoreCompileInputs.cache
+/Users/mac/RiderProjects/chatgpt/chatgpt/obj/Debug/net9.0/chatgpt.dll
+/Users/mac/RiderProjects/chatgpt/chatgpt/obj/Debug/net9.0/refint/chatgpt.dll
+/Users/mac/RiderProjects/chatgpt/chatgpt/obj/Debug/net9.0/chatgpt.pdb
+/Users/mac/RiderProjects/chatgpt/chatgpt/obj/Debug/net9.0/chatgpt.genruntimeconfig.cache
+/Users/mac/RiderProjects/chatgpt/chatgpt/obj/Debug/net9.0/ref/chatgpt.dll
