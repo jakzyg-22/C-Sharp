@@ -1,0 +1,14 @@
+/Users/mac/RiderProjects/ConsoleApp1/ZgadnijLiczbeDla2/bin/Debug/net9.0/ZgadnijLiczbeDla2
+/Users/mac/RiderProjects/ConsoleApp1/ZgadnijLiczbeDla2/bin/Debug/net9.0/ZgadnijLiczbeDla2.deps.json
+/Users/mac/RiderProjects/ConsoleApp1/ZgadnijLiczbeDla2/bin/Debug/net9.0/ZgadnijLiczbeDla2.runtimeconfig.json
+/Users/mac/RiderProjects/ConsoleApp1/ZgadnijLiczbeDla2/bin/Debug/net9.0/ZgadnijLiczbeDla2.dll
+/Users/mac/RiderProjects/ConsoleApp1/ZgadnijLiczbeDla2/bin/Debug/net9.0/ZgadnijLiczbeDla2.pdb
+/Users/mac/RiderProjects/ConsoleApp1/ZgadnijLiczbeDla2/obj/Debug/net9.0/ZgadnijLiczbeDla2.GeneratedMSBuildEditorConfig.editorconfig
+/Users/mac/RiderProjects/ConsoleApp1/ZgadnijLiczbeDla2/obj/Debug/net9.0/ZgadnijLiczbeDla2.AssemblyInfoInputs.cache
+/Users/mac/RiderProjects/ConsoleApp1/ZgadnijLiczbeDla2/obj/Debug/net9.0/ZgadnijLiczbeDla2.AssemblyInfo.cs
+/Users/mac/RiderProjects/ConsoleApp1/ZgadnijLiczbeDla2/obj/Debug/net9.0/ZgadnijLiczbeDla2.csproj.CoreCompileInputs.cache
+/Users/mac/RiderProjects/ConsoleApp1/ZgadnijLiczbeDla2/obj/Debug/net9.0/ZgadnijLiczbeDla2.dll
+/Users/mac/RiderProjects/ConsoleApp1/ZgadnijLiczbeDla2/obj/Debug/net9.0/refint/ZgadnijLiczbeDla2.dll
+/Users/mac/RiderProjects/ConsoleApp1/ZgadnijLiczbeDla2/obj/Debug/net9.0/ZgadnijLiczbeDla2.pdb
+/Users/mac/RiderProjects/ConsoleApp1/ZgadnijLiczbeDla2/obj/Debug/net9.0/ZgadnijLiczbeDla2.genruntimeconfig.cache
+/Users/mac/RiderProjects/ConsoleApp1/ZgadnijLiczbeDla2/obj/Debug/net9.0/ref/ZgadnijLiczbeDla2.dll

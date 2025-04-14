@@ -1,0 +1,14 @@
+/Users/mac/RiderProjects/ConsoleApp1/Programowaniekolos/bin/Debug/net9.0/Programowaniekolos
+/Users/mac/RiderProjects/ConsoleApp1/Programowaniekolos/bin/Debug/net9.0/Programowaniekolos.deps.json
+/Users/mac/RiderProjects/ConsoleApp1/Programowaniekolos/bin/Debug/net9.0/Programowaniekolos.runtimeconfig.json
+/Users/mac/RiderProjects/ConsoleApp1/Programowaniekolos/bin/Debug/net9.0/Programowaniekolos.dll
+/Users/mac/RiderProjects/ConsoleApp1/Programowaniekolos/bin/Debug/net9.0/Programowaniekolos.pdb
+/Users/mac/RiderProjects/ConsoleApp1/Programowaniekolos/obj/Debug/net9.0/Programowaniekolos.GeneratedMSBuildEditorConfig.editorconfig
+/Users/mac/RiderProjects/ConsoleApp1/Programowaniekolos/obj/Debug/net9.0/Programowaniekolos.AssemblyInfoInputs.cache
+/Users/mac/RiderProjects/ConsoleApp1/Programowaniekolos/obj/Debug/net9.0/Programowaniekolos.AssemblyInfo.cs
+/Users/mac/RiderProjects/ConsoleApp1/Programowaniekolos/obj/Debug/net9.0/Programowaniekolos.csproj.CoreCompileInputs.cache
+/Users/mac/RiderProjects/ConsoleApp1/Programowaniekolos/obj/Debug/net9.0/Programowaniekolos.dll
+/Users/mac/RiderProjects/ConsoleApp1/Programowaniekolos/obj/Debug/net9.0/refint/Programowaniekolos.dll
+/Users/mac/RiderProjects/ConsoleApp1/Programowaniekolos/obj/Debug/net9.0/Programowaniekolos.pdb
+/Users/mac/RiderProjects/ConsoleApp1/Programowaniekolos/obj/Debug/net9.0/Programowaniekolos.genruntimeconfig.cache
+/Users/mac/RiderProjects/ConsoleApp1/Programowaniekolos/obj/Debug/net9.0/ref/Programowaniekolos.dll
