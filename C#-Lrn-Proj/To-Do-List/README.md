@@ -23,3 +23,5 @@ Prosta aplikacja konsolowa do zarządzania zadaniami, napisana w C# (.NET 9.0). 
 2. Sklonuj repozytorium:
    ```bash
    git clone https://github.com/twoj-login/To-Do-List.git
+   cd To-Do-List
+   dotnet run
