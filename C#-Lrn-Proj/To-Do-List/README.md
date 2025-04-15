@@ -17,4 +17,9 @@ Prosta aplikacja konsolowa do zarządzania zadaniami, napisana w C# (.NET 9.0). 
 - System.IO do obsługi plików
 - Kompatybilność z Windows/macOS/Linux
 
-## 📸 Podgląd aplikacji
+
+## ⚡ Jak uruchomić?
+1. Wymagane: [.NET 9.0 SDK](https://dotnet.microsoft.com/download)
+2. Sklonuj repozytorium:
+   ```bash
+   git clone https://github.com/twoj-login/To-Do-List.git
