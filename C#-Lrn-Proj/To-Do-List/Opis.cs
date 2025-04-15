@@ -5,9 +5,9 @@ public class task_of
         public string Description { get; set; }
         public bool Done { get; set; }
 
-        public task_of(string opis)
+        public task_of(string description)
         {
-            this.Description = opis;
+            this.Description = description;
             Done = false; // domyślnie zadanie jest niewykonane
         }
 
